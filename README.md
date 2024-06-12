@@ -4,6 +4,8 @@ Welcome to my portfolio! I'm Sara, a data-driven business analyst. I recently co
 
 So why analytics? Analytics is like creating a narrative for data. It turns the what-seems-to-be-pointless data into valuable information, allowing others to see the story of the dataset. It is the potential to uncover beneath-the-surface insights, supporting strategic decision-making, that draws me to business analytics. I hope to empower people and organizations by using data to bridge the gap between business and analytics.    
 
+## :desktop_computer: Projects
+
 <!--
 **sara-huang-hart/sara-huang-hart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
