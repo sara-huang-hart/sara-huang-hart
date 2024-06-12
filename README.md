@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Welcome to my portfolio! I'm Sara, a data-driven business analyst. I recently completed a Master of Science in Business Analytics program at the University of California, Irvine, where I learned how to apply different analytical tools, such as machine learning models and neural networks, to real-world examples. Before that, I completed an online Certificate Program in Business Analysis from the University of California, Berkeley, while working as a Technical Administrative Assistant at SFX Preferred Resorts for over 3 years. During the certification program, I learned about business analysis from the business perspective, from communicating with stakeholders and asking the right questions to implementing solutions efficiently and effectively. As a Technical Administrative Assistant, I was able to apply the knowledge I learned from my academic career, as well as learn new tools and contribute to a team.     
+
+
+
 <!--
 **sara-huang-hart/sara-huang-hart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
