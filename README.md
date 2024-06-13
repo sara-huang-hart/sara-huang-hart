@@ -36,7 +36,7 @@ Project details [here]()
 Project details [here]()
 
 <b>Yelp Database Design and Data Analysis</b>    
-- Skills: Databases, MySQL  
+- Skills: Databases, MySQL, Lucidchart    
 Project details [here]()
 
 <!--
