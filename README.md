@@ -7,7 +7,7 @@ So why analytics? Analytics is like creating a narrative for data. It turns the 
 Here are some projects that I have worked on.
 
 ## :desktop_computer: Projects  
-<b>Business Recommendations System</b>  
+<b>Business Insights System</b>  
 - Skills: Python, Databases  
 Project details [here](https://github.com/sara-huang-hart/business-recommendations-system.git)
 
@@ -25,6 +25,10 @@ Project details [here]()
 
 <b>Sun Country Airlines Case Analysis</b>    
 - Skills: Python for K-means Clustering, Tableau for Data Visualization  
+Project details [here]()
+
+<b>The Game of M.A.S.H</b>  
+- Skills: Python
 Project details [here]()  
 
 <b>Yelp Data Analysis</b>    
