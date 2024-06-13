@@ -11,23 +11,27 @@ Here are some projects that I have worked on.
 - Skills: Python, Databases  
 Project details [here](https://github.com/sara-huang-hart/business-recommendations-system.git)
 
-Real Estate Classification  
+<b>Driver Drowsiness Detection Modeling</b>  
+- Skill: Deep Learning and Neural Networks (CNNs)
+Project details [here]()  
+
+<b>Real Estate Classification</b>    
 - Skills: Python for Machine Learning Modeling (Random Forest, K-Nearest Neighbors, Logistic Regression), Tableau for Data Visualization
 Project details [here]()  
 
-Spotify Musical Elements and Track Popularity Analysis  
+<b>Spotify Musical Elements and Track Popularity Analysis</b>    
 - Skills: Statistical Analysis, Advanced Excel, SPSS  
 Project details [here]()
 
-Sun Country Airlines Case Analysis  
+<b>Sun Country Airlines Case Analysis</b>    
 - Skills: Python for K-means Clustering, Tableau for Data Visualization
 Project details [here]()  
 
-Yelp Data Analysis  
+<b>Yelp Data Analysis</b>    
 - Skills: Apache Spark on Databricks, Data Wrangling, Tableau for Data Visualization  
 Project details [here]()
 
-Yelp Database Design and Data Analysis  
+<b>Yelp Database Design and Data Analysis</b>    
 - Skills: Databases, MySQL
 Project details [here]()
 
