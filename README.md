@@ -24,7 +24,7 @@ Project details [here]()
 Project details [here]()
 
 <b>Sun Country Airlines Case Analysis</b>    
-- Skills: Python for K-means Clustering, Tableau for Data Visualization
+- Skills: Python for K-means Clustering, Tableau for Data Visualization  
 Project details [here]()  
 
 <b>Yelp Data Analysis</b>    
