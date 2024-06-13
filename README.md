@@ -12,7 +12,7 @@ Here are some projects that I have worked on.
 Project details [here](https://github.com/sara-huang-hart/business-recommendations-system.git)
 
 <b>Driver Drowsiness Detection Modeling</b>  
-- Skill: Deep Learning and Neural Networks (CNNs)
+- Skill: Deep Learning and Neural Networks (CNNs)  
 Project details [here]()  
 
 <b>Real Estate Classification</b>    
@@ -32,7 +32,7 @@ Project details [here]()
 Project details [here]()
 
 <b>Yelp Database Design and Data Analysis</b>    
-- Skills: Databases, MySQL
+- Skills: Databases, MySQL  
 Project details [here]()
 
 <!--
