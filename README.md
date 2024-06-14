@@ -8,35 +8,31 @@ Here are some projects that I have worked on.
 
 ## :desktop_computer: Projects  
 <b>Business Insights System</b>  
-- Skills: Python, Databases  
+- Skills: Python, Databases, Data Analysis   
 Project details [here](https://github.com/sara-huang-hart/business-recommendations-system.git)
 
-<b>Driver Drowsiness Detection Modeling</b>  
-- Skill: Deep Learning and Neural Networks (CNNs)  
-Project details [here]()  
-
 <b>Real Estate Classification</b>    
-- Skills: Python for Machine Learning Modeling (Random Forest, K-Nearest Neighbors, Logistic Regression), Tableau for Data Visualization
+- Skills: Python for Machine Learning Modeling (Random Forest, K-Nearest Neighbors, Logistic Regression), Tableau for Data Visualization, Data Analysis  
 Project details [here]()  
 
 <b>Spotify Musical Elements and Track Popularity Analysis</b>    
-- Skills: Statistical Analysis, Advanced Excel, SPSS  
+- Skills: Statistical Analysis, Advanced Excel, SPSS, Data Analysis    
 Project details [here]()
 
 <b>Sun Country Airlines Case Analysis</b>    
-- Skills: Python for K-means Clustering, Tableau for Data Visualization  
+- Skills: Python for K-means Clustering, Tableau for Data Visualization, Data Analysis    
 Project details [here]()
 
 <b>The Game of M.A.S.H</b>  
-- Skills: Python  
+- Skills: Python, Web Design    
 Project details [here]()  
 
 <b>Yelp Data Analysis</b>    
-- Skills: Apache Spark on Databricks, Data Wrangling, Tableau for Data Visualization  
+- Skills: Apache Spark on Databricks, Data Wrangling, Tableau for Data Visualization, Data Analysis    
 Project details [here]()
 
 <b>Yelp Database Design and Data Analysis</b>    
-- Skills: Databases, MySQL, Lucidchart    
+- Skills: Databases, MySQL, Lucidchart, Data Analysis      
 Project details [here]()
 
 <!--
