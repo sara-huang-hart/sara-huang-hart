@@ -11,6 +11,10 @@ Here are some projects that I have worked on.
 - Skills: Python, Databases, Data Analysis   
 Project details [here](https://github.com/sara-huang-hart/business-recommendations-system.git)
 
+<b>Driver Drowsiness Detection</b>  
+- Skills: Deep Learning and Neural Networks, Data Modeling
+Project details [here]()  
+
 <b>Real Estate Classification</b>    
 - Skills: Python for Machine Learning Modeling (Random Forest, K-Nearest Neighbors, Logistic Regression), Tableau for Data Visualization, Data Analysis  
 Project details [here]()  
