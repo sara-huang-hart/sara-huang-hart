@@ -16,7 +16,7 @@ Project details [here](https://github.com/sara-huang-hart/business-recommendatio
 Project details [here]()  -->
 
 <b>Real Estate Classification</b>    
-- Skills: Python for Machine Learning Modeling (Random Forest, K-Nearest Neighbors, Logistic Regression), Tableau for Data Visualization, Data Analysis  
+- Skills: Python for Machine Learning Modeling, Tableau for Data Visualization, Data Analysis  
 Project details [here]()  
 
 <b>Spotify Musical Elements and Track Popularity Analysis</b>    
