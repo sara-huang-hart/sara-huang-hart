@@ -17,7 +17,7 @@ Project details [here]()  -->
 
 <b>Real Estate Classification</b>    
 - Skills: Python for Machine Learning Modeling, Tableau for Data Visualization, Data Analysis  
-Project details [here]()  
+Project details [here](https://github.com/sara-huang-hart/real-estate-classification.git)  
 
 <b>Spotify Musical Elements and Track Popularity Analysis</b>    
 - Skills: Statistical Analysis, Advanced Excel, SPSS, Data Analysis    
