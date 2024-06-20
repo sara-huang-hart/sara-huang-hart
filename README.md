@@ -15,6 +15,10 @@ Project details [here](https://github.com/sara-huang-hart/business-recommendatio
 - Skills: Deep Learning and Neural Networks, Data Modeling  
 Project details [here]()  -->
 
+<!--<b>LinkedIn Job Postings Analysis</b>  
+- Skills: Predictive Analytics, R  
+Project details [here]()  -->
+
 <b>Real Estate Classification</b>    
 - Skills: Python for Machine Learning Modeling, Tableau for Data Visualization, Data Analysis  
 Project details [here](https://github.com/sara-huang-hart/real-estate-classification.git)  
