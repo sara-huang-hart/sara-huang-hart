@@ -27,9 +27,9 @@ Project details [here]()
 - Skills: Python for K-means Clustering, Tableau for Data Visualization, Data Analysis    
 Project details [here]()
 
-<b>The Game of M.A.S.H</b>  
+<!---<b>The Game of M.A.S.H</b>  
 - Skills: Python, Web Design    
-Project details [here]()  
+Project details [here]()--->  
 
 <b>Yelp Data Analysis</b>    
 - Skills: Apache Spark on Databricks, Data Wrangling, Tableau for Data Visualization, Data Analysis    
