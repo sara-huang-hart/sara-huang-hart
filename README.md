@@ -7,6 +7,9 @@ So why analytics? Analytics is like creating a narrative for data. It turns the 
 Here are some projects that I have worked on.
 
 ## :desktop_computer: Projects  
+<b>Anime Recommendation System</b>  
+Project details COMING SOON
+
 <b>Business Insights System</b>  
 - Skills: Python, Databases, Data Analysis   
 Project details [here](https://github.com/sara-huang-hart/business-recommendations-system.git)
@@ -29,7 +32,7 @@ Project details [here]()
 
 <b>Sun Country Airlines Case Analysis</b>    
 - Skills: Python for K-means Clustering, Tableau for Data Visualization, Data Analysis    
-Project details [here]()
+Project details COMING SOON <!--[here]()-->
 
 <!---<b>The Game of M.A.S.H</b>  
 - Skills: Python, Web Design    
@@ -37,11 +40,11 @@ Project details [here]()--->
 
 <b>Yelp Data Analysis</b>    
 - Skills: Apache Spark on Databricks, Data Wrangling, Tableau for Data Visualization, Data Analysis    
-Project details [here]()
+Project details COMING SOON <!--[here]()-->
 
 <b>Yelp Database Design and Data Analysis</b>    
 - Skills: Databases, MySQL, Lucidchart, Data Analysis      
-Project details [here]()
+Project details COMING SOON <!--[here]()-->
 
 <!--
 **sara-huang-hart/sara-huang-hart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
