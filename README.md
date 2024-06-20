@@ -8,6 +8,7 @@ Here are some projects that I have worked on.
 
 ## :desktop_computer: Projects  
 <b>Anime Recommendation System</b>  
+- Skills: Python, Web Scraping  
 Project details COMING SOON
 
 <b>Business Insights System</b>  
