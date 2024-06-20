@@ -29,7 +29,7 @@ Project details [here](https://github.com/sara-huang-hart/real-estate-classifica
 
 <b>Spotify Musical Elements and Track Popularity Analysis</b>    
 - Skills: Statistical Analysis, Advanced Excel, SPSS, Data Analysis    
-Project details [here]()
+Project details [here](https://github.com/sara-huang-hart/spotify-musical-elements-and-track-popularity-analysis.git)
 
 <b>Sun Country Airlines Case Analysis</b>    
 - Skills: Python for K-means Clustering, Tableau for Data Visualization, Data Analysis    
