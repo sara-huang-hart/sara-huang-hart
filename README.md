@@ -8,20 +8,20 @@ Here are some projects that I have worked on.
 
 ## :desktop_computer: Projects  
 <b>Anime Recommendation System</b>  
-- Skills: Python, Web Scraping  
+- Skills: Python, Web Scraping, Tableau for Data Visualization    
 Project details [here](https://github.com/sara-huang-hart/anime-recommendation-system.git)
 
 <b>Business Insights System</b>  
 - Skills: Python, Databases, Data Analysis   
 Project details [here](https://github.com/sara-huang-hart/business-recommendations-system.git)
 
-<!--<b>Driver Drowsiness Detection</b>  
+<b>Driver Drowsiness Detection</b>  
 - Skills: Deep Learning and Neural Networks, Data Modeling  
-Project details [here]()  -->
+Project details COMING SOON  
 
-<!--<b>LinkedIn Job Postings Analysis</b>  
+<b>LinkedIn Job Postings Analysis</b>  
 - Skills: Predictive Analytics, R  
-Project details [here]()  -->
+Project details COMING SOON  
 
 <b>Real Estate Classification</b>    
 - Skills: Python for Machine Learning Modeling, Tableau for Data Visualization, Data Analysis  
@@ -34,10 +34,6 @@ Project details [here](https://github.com/sara-huang-hart/spotify-musical-elemen
 <b>Sun Country Airlines Case Analysis</b>    
 - Skills: Python for K-means Clustering, Tableau for Data Visualization, Data Analysis    
 Project details COMING SOON <!--[here]()-->
-
-<!---<b>The Game of M.A.S.H</b>  
-- Skills: Python, Web Design    
-Project details [here]()--->  
 
 <b>Yelp Data Analysis</b>    
 - Skills: Apache Spark on Databricks, Data Wrangling, Tableau for Data Visualization, Data Analysis    
