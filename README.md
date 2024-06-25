@@ -9,7 +9,7 @@ Here are some projects that I have worked on.
 ## :desktop_computer: Projects  
 <b>Anime Recommendation System</b>  
 - Skills: Python, Web Scraping  
-Project details COMING SOON
+Project details [here](https://github.com/sara-huang-hart/anime-recommendation-system.git)
 
 <b>Business Insights System</b>  
 - Skills: Python, Databases, Data Analysis   
