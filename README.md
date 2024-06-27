@@ -32,7 +32,7 @@ Project details [here](https://github.com/sara-huang-hart/real-estate-classifica
 Project details [here](https://github.com/sara-huang-hart/spotify-musical-elements-and-track-popularity-analysis.git)
 
 <b>Sun Country Airlines Case Analysis</b>    
-- Skills: Python for K-means Clustering, Tableau for Data Visualization, Data Analysis    
+- Skills: Python, Tableau for Data Visualization, Data Analysis    
 Project details COMING SOON <!--[here]()-->
 
 <b>Yelp Data Analysis</b>    
