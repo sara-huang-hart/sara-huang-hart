@@ -19,9 +19,9 @@ Project details [here](https://github.com/sara-huang-hart/business-recommendatio
 - Skills: Deep Learning and Neural Networks, Data Modeling  
 Project details [here](https://github.com/sara-huang-hart/driver-drowsiness-detection.git)    
 
-<b>LinkedIn Job Postings Analysis</b>  
+<!--<b>LinkedIn Job Postings Analysis</b>  
 - Skills: Predictive Analytics, R  
-Project details COMING SOON  
+Project details COMING SOON-->  
 
 <b>Real Estate Classification</b>    
 - Skills: Python for Machine Learning Modeling, Tableau for Data Visualization, Data Analysis  
