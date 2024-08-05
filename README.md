@@ -31,15 +31,15 @@ Project details [here](https://github.com/sara-huang-hart/real-estate-classifica
 - Skills: Statistical Analysis, Advanced Excel, SPSS, Data Analysis    
 Project details [here](https://github.com/sara-huang-hart/spotify-musical-elements-and-track-popularity-analysis.git)
 
-<b>Sun Country Airlines Case Analysis</b>    
+<!--<b>Sun Country Airlines Case Analysis</b>    
 - Skills: Python, Tableau for Data Visualization, Data Analysis    
 Project details COMING SOON <!--[here]()-->
 
-<b>Yelp Data Analysis</b>    
+<!--<b>Yelp Data Analysis</b>    
 - Skills: Apache Spark on Databricks, Data Wrangling, Tableau for Data Visualization, Data Analysis    
 Project details COMING SOON <!--[here]()-->
 
-<b>Yelp Database Design and Data Analysis</b>    
+<!--<b>Yelp Database Design and Data Analysis</b>    
 - Skills: Databases, MySQL, Lucidchart, Data Analysis      
 Project details COMING SOON <!--[here]()-->
 
