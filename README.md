@@ -2,7 +2,7 @@
 
 Welcome to my portfolio! I'm Sara, a data-driven business analyst. I recently completed a Master of Science in Business Analytics program at the University of California, Irvine, where I learned how to apply different analytical tools, such as machine learning models and neural networks, to real-world examples. Before that, I completed an online Certificate Program in Business Analysis from the University of California, Berkeley, where I learned about business analysis from a business perspective, from communicating with stakeholders and asking the right questions to implementing solutions effectively. At the same time, I was working as a full-time Technical Administrative Assistant at SFX Preferred Resorts for over 3 years. In this role, I applied the knowledge I learned from my academic career and made valuable contributions to the organization, as well as learned new skills.    
 
-So why analytics? Analytics is like creating a narrative for data. It turns the what-seems-to-be-pointless data into valuable information, allowing others to see the story of the dataset. The potential to uncover beneath-the-surface insights that support strategic decision-making is what draws me to business analytics. I hope to empower people and organizations by using data to bridge the gap between business and analytics.
+So why analytics? For me, it's about translating raw data into meaningful insights. I'm drawn to the challenge of transforming what might seem to be random data into a compelling narrative that drives strategic decisions. My goal is to bridge the gap between business and analytics, empowering people and organizations through data-driven insights.
 
 Here are some projects that I have worked on.
 
